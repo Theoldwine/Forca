@@ -7,5 +7,4 @@ Por enquanto é uma versão bem Alfa, querendo aprender como importar banco de d
 
 *Próximo update: 
 trazer random em listas/dicionários, mesmo que seja dentro do Python
-após ganhar mais uma chance e errar novamente, encerrar o programa
-*
+após ganhar mais uma chance e errar novamente, encerrar o programa*
